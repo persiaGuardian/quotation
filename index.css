@@ -1,0 +1,15 @@
+.inline-margin{
+    margin-right: 25px;  
+} 
+.col-md-margin{
+    margin-top: 25px;
+}
+.add-row{
+    float: right;
+    cursor: pointer;
+}
+.sorting { background-image: none!important; cursor: default!important; }
+.price {
+    width: 10%;
+}
+.sorting_asc { background-image: none!important; cursor: default!important; }
